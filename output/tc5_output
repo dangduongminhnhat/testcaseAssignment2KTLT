@@ -1,27 +1,45 @@
-No. knights: 7;[Knight:id:7,hp:767,maxhp:767,level:2,gil:944,Bag[count=3;Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:292,maxhp:767,level:2,gil:944,Bag[count=3;Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:292,maxhp:767,level:2,gil:944,Bag[count=3;Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:262,maxhp:767,level:2,gil:944,Bag[count=3;Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:262,maxhp:767,level:2,gil:944,Bag[count=3;Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:767,maxhp:767,level:2,gil:944,Bag[count=2;Antidote,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:767,maxhp:767,level:2,gil:944,Bag[count=2;Antidote,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:647,maxhp:767,level:2,gil:944,Bag[count=2;Antidote,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:647,maxhp:767,level:2,gil:944,Bag[count=2;Antidote,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:647,maxhp:767,level:2,gil:944,Bag[count=2;Antidote,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:767,maxhp:767,level:2,gil:944,Bag[count=1;Antidote],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 7;[Knight:id:7,hp:383,maxhp:767,level:2,gil:844,Bag[count=1;Antidote],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=6;PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 6;[Knight:id:7,hp:383,maxhp:767,level:2,gil:844,Bag[count=1;Antidote],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=7;PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=8;PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=8;PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=8;PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=8;PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=8;PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=9;PhoenixII,PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=9;PhoenixII,PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 12;[Knight:id:12,hp:121,maxhp:121,level:9,gil:999,Bag[count=9;PhoenixII,PhoenixII,PhoenixIV,PhoenixII,Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 0;PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
 --------------------------------------------------
 LOSE

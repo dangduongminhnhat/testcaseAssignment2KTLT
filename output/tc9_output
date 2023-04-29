@@ -1,21 +1,15 @@
-No. knights: 20;[Knight:id:20,hp:672,maxhp:672,level:5,gil:789,Bag[count=6;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=6;Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:672,maxhp:672,level:5,gil:999,Bag[count=6;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=7;PhoenixII,Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:672,maxhp:672,level:5,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=6;Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:672,maxhp:672,level:5,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=6;Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:0;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:372,maxhp:672,level:5,gil:999,Bag[count=5;Antidote,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=6;Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:672,maxhp:672,level:5,gil:999,Bag[count=4;Antidote,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=6;Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:672,maxhp:672,level:5,gil:999,Bag[count=4;Antidote,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:1;ExcaliburSword:0
+No. knights: 5;[Knight:id:5,hp:235,maxhp:235,level:1,gil:847,Bag[count=6;Antidote,Antidote,Antidote,Antidote,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
 --------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:632,maxhp:672,level:5,gil:999,Bag[count=4;Antidote,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:0;GuinevereHair:1;ExcaliburSword:0
---------------------------------------------------
-No. knights: 20;[Knight:id:20,hp:632,maxhp:672,level:5,gil:999,Bag[count=4;Antidote,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
---------------------------------------------------
-No. knights: 19;[Knight:id:20,hp:632,maxhp:672,level:5,gil:999,Bag[count=4;Antidote,PhoenixI,PhoenixI,PhoenixI],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
---------------------------------------------------
-LOSE
+WIN
