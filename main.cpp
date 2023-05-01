@@ -4,7 +4,7 @@
 #include<windows.h>
 
 #define NUMBER_OF_KNIGHTS_AND_EVENTS 20
-#define NUMBER_OF_TESTCASE 100
+#define NUMBER_OF_TESTCASE 300
 
 string input = "input\\";
 string output = "output\\";
@@ -46,7 +46,7 @@ void createTestCase() {
 
         string file_events = input + "tc" + to_string(i) + "_events";
         file.open(file_events);
-        int numEvents = rand() % NUMBER_OF_KNIGHTS_AND_EVENTS + 4;
+        int numEvents = rand() % NUMBER_OF_KNIGHTS_AND_EVENTS + 5;
         file << numEvents << endl;
         for(int i = 0; i < numEvents - 5; i ++) {
             if(mustHave.size() > 0) {
@@ -79,6 +79,7 @@ void createTestCase() {
         file.close();
 
         Sleep(1000);
+        cout << "testcase " << i << " is created\n";
     }
     cout << "Testcases were created!\n";
 }
@@ -139,7 +140,8 @@ void updateOutput() {
 int main(int argc, char ** argv) {
     //  g++ -g -o main main.cpp C:\Users\GAMING\Desktop\A2_initial\knight2.cpp -I . -std=c++11 -DDEBUG
 
-    checkTestCase();
+    // checkTestCase();
+    createTestCase();
 
     return 0;
 }
