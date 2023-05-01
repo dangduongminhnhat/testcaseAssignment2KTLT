@@ -140,8 +140,7 @@ void updateOutput() {
 int main(int argc, char ** argv) {
     //  g++ -g -o main main.cpp C:\Users\GAMING\Desktop\A2_initial\knight2.cpp -I . -std=c++11 -DDEBUG
 
-    // checkTestCase();
-    createTestCase();
+    checkTestCase();
 
     return 0;
 }
