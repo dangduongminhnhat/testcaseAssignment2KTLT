@@ -80,7 +80,6 @@ void createTestCase() {
 
         Sleep(1000);
     }
-
     cout << "Testcases were created!\n";
 }
 
@@ -105,6 +104,7 @@ void checkTestCase() {
                 << my_answer << endl
                 << "your answer is:\n"
                 << your_answer << endl;
+                break;
         }
     }
 }
@@ -117,6 +117,23 @@ void runTestcaseI(int i) {
     knightAdventure->run();
 
     delete knightAdventure;
+}
+
+void updateOutput() {
+    for(int i = 1; i <= NUMBER_OF_TESTCASE; i ++) {
+        string file_armyknights = input + "tc" + to_string(i) + "_armyknights", 
+            file_events = input + "tc" + to_string(i) + "_events",
+            file_output = output + "tc" + to_string(i) + "_output";
+
+        string saveString = runSourceCode(file_armyknights, file_events);
+
+        ofstream file;
+        file.open(file_output);
+        file << saveString;
+        file.close();
+        cout << "testcase " << i << " is updated\n";
+    }
+    cout << "Testcases were updated!\n";
 }
 
 int main(int argc, char ** argv) {
