@@ -1,0 +1,19 @@
+No. knights: 20;[Knight:id:20,hp:435,maxhp:435,level:5,gil:847,Bag[count=4;PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:435,maxhp:435,level:5,gil:847,Bag[count=3;PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:0;GuinevereHair:0;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:435,maxhp:435,level:5,gil:847,Bag[count=3;PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:0;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:55,maxhp:435,level:5,gil:847,Bag[count=3;PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:0;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:55,maxhp:435,level:5,gil:847,Bag[count=3;PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:0;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:55,maxhp:435,level:5,gil:847,Bag[count=4;PhoenixIII,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:0;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:55,maxhp:435,level:5,gil:847,Bag[count=4;PhoenixIII,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:0;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 20;[Knight:id:20,hp:55,maxhp:435,level:5,gil:847,Bag[count=4;PhoenixIII,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+No. knights: 0;PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+--------------------------------------------------
+LOSE

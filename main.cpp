@@ -3,8 +3,8 @@
 #include<vector>
 #include<windows.h>
 
-#define NUMBER_OF_KNIGHTS_AND_EVENTS 20
-#define NUMBER_OF_TESTCASE 300
+#define NUMBER_OF_KNIGHTS_AND_EVENTS 30
+#define NUMBER_OF_TESTCASE 1000
 
 string input = "input\\";
 string output = "output\\";
@@ -28,7 +28,15 @@ string runSourceCode(string file_armyknights, string file_events) {
 
 void createTestCase() {
     vector<int> events = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 112, 113, 114};
-    for(int i = 1; i <= NUMBER_OF_TESTCASE; i ++) {
+    vector<int> paladinKnights, lancelotKnights, dragonKnights, normalKnights;
+    vector<KnightType> chooseKnight = {PALADIN, LANCELOT, DRAGON, NORMAL};
+    for(int i = 1; i < 1000; i ++) {
+        if(checkPrime(i)) paladinKnights.push_back(i);
+        else if(i == 888) lancelotKnights.push_back(i);
+        else if(checkPythagoras(i)) dragonKnights.push_back(i);
+        else normalKnights.push_back(i);
+    }
+    for(int i = 301; i <= NUMBER_OF_TESTCASE; i ++) {
         srand( (unsigned)time(NULL) );
         vector<int> mustHave = {95, 96, 97, 98};
 
@@ -38,7 +46,32 @@ void createTestCase() {
         int numKnights = rand() % NUMBER_OF_KNIGHTS_AND_EVENTS + 1;
         file << numKnights << endl;
         for(int i = 0; i < numKnights; i ++) {
-            int hp = rand() % 999 + 1, level = rand() % 10 + 1, phoenixDownI = rand() % 6, gil = rand() % 999 + 1, antidote = rand() % 6;
+            int hp, level = rand() % 10 + 1, phoenixDownI = rand() % 6, gil = rand() % 999 + 1, antidote = rand() % 6;
+            int choose = rand() % 4;
+            if(chooseKnight[choose] == PALADIN) {
+                int pal = rand() % paladinKnights.size();
+                hp = paladinKnights[pal];
+                paladinKnights.erase(paladinKnights.begin() + pal);
+                paladinKnights.push_back(hp);
+            } else if(chooseKnight[choose] == LANCELOT) {
+                int lan = rand() % lancelotKnights.size();
+                hp = lancelotKnights[lan];
+                lancelotKnights.erase(lancelotKnights.begin() + lan);
+                lancelotKnights.push_back(hp);
+            } else if(chooseKnight[choose] == DRAGON) {
+                int dra = rand() % dragonKnights.size();
+                hp = dragonKnights[dra];
+                dragonKnights.erase(dragonKnights.begin() + dra);
+                dragonKnights.push_back(hp);
+            } else {
+                int nor = rand() % normalKnights.size();
+                hp = normalKnights[nor];
+                normalKnights.erase(normalKnights.begin() + nor);
+                normalKnights.push_back(hp);
+            }
+            KnightType typeChoose = chooseKnight[choose];
+            chooseKnight.erase(chooseKnight.begin() + choose);
+            chooseKnight.push_back(typeChoose);
             file << hp << " " << level << " " << phoenixDownI << " " << gil << " " << antidote;
             if(i < numKnights - 1) file << endl;
         }
