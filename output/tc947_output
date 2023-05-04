@@ -46,7 +46,7 @@ No. knights: 10;[Knight:id:10,hp:115,maxhp:347,level:2,gil:999,Bag[count=0;],kni
 --------------------------------------------------
 No. knights: 10;[Knight:id:10,hp:105,maxhp:347,level:2,gil:999,Bag[count=0;],knight_type:PALADIN];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
 --------------------------------------------------
-No. knights: 10;[Knight:id:10,hp:174,maxhp:347,level:2,gil:949,Bag[count=0;],knight_type:PALADIN];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
+No. knights: 10;[Knight:id:10,hp:174,maxhp:347,level:2,gil:999,Bag[count=0;],knight_type:PALADIN];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
 --------------------------------------------------
 No. knights: 10;[Knight:id:10,hp:174,maxhp:347,level:2,gil:999,Bag[count=0;],knight_type:PALADIN];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:0
 --------------------------------------------------
