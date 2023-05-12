@@ -40,9 +40,9 @@ No. knights: 26;[Knight:id:26,hp:197,maxhp:395,level:4,gil:64,Bag[count=1;Antido
 --------------------------------------------------
 No. knights: 26;[Knight:id:26,hp:197,maxhp:395,level:4,gil:64,Bag[count=1;Antidote],knight_type:NORMAL];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
 --------------------------------------------------
-No. knights: 25;[Knight:id:25,hp:263,maxhp:453,level:5,gil:504,Bag[count=5;PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
+No. knights: 25;[Knight:id:25,hp:453,maxhp:453,level:5,gil:504,Bag[count=5;PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
 --------------------------------------------------
-No. knights: 25;[Knight:id:25,hp:218,maxhp:453,level:5,gil:504,Bag[count=5;PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
+No. knights: 25;[Knight:id:25,hp:408,maxhp:453,level:5,gil:504,Bag[count=5;PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
 --------------------------------------------------
 No. knights: 25;[Knight:id:25,hp:453,maxhp:453,level:5,gil:504,Bag[count=5;PhoenixI,PhoenixI,PhoenixI,PhoenixI,PhoenixI],knight_type:DRAGON];PaladinShield:1;LancelotSpear:1;GuinevereHair:1;ExcaliburSword:1
 --------------------------------------------------
